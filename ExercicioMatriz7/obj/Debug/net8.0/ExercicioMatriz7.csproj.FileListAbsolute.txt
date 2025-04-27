@@ -1,0 +1,14 @@
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\bin\Debug\net8.0\ExercicioMatriz7.exe
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\bin\Debug\net8.0\ExercicioMatriz7.deps.json
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\bin\Debug\net8.0\ExercicioMatriz7.runtimeconfig.json
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\bin\Debug\net8.0\ExercicioMatriz7.dll
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\bin\Debug\net8.0\ExercicioMatriz7.pdb
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.AssemblyInfoInputs.cache
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.AssemblyInfo.cs
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.csproj.CoreCompileInputs.cache
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.dll
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\refint\ExercicioMatriz7.dll
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.pdb
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ExercicioMatriz7.genruntimeconfig.cache
+C:\Users\digow\Desktop\Projetos\ExercicioMatriz7\ExercicioMatriz7\obj\Debug\net8.0\ref\ExercicioMatriz7.dll

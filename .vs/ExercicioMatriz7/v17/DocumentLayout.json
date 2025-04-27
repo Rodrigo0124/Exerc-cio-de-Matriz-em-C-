@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digow\\Desktop\\Projetos\\ExercicioMatriz7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29DAAFCD-C026-41F8-A247-F8384929AB02}|ExercicioMatriz7\\ExercicioMatriz7.csproj|c:\\users\\digow\\desktop\\projetos\\exerciciomatriz7\\exerciciomatriz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DAAFCD-C026-41F8-A247-F8384929AB02}|ExercicioMatriz7\\ExercicioMatriz7.csproj|solutionrelative:exerciciomatriz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\digow\\Desktop\\Projetos\\ExercicioMatriz7\\ExercicioMatriz7\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioMatriz7\\Program.cs",
+              "ToolTip": "C:\\Users\\digow\\Desktop\\Projetos\\ExercicioMatriz7\\ExercicioMatriz7\\Program.cs",
+              "RelativeToolTip": "ExercicioMatriz7\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:22:42.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
