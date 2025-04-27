@@ -1,2 +1,2 @@
 # Exerc-cio-de-Matriz-em-C-
-Exercício de Matriz feito na linguagem C#.
+Exercício de lógica da programação de Matriz feito na linguagem C#.
